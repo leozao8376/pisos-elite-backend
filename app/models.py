@@ -1,0 +1,1 @@
+# Só se quiser migrar pro ORM depois, por enquanto usamos SQLite puro
